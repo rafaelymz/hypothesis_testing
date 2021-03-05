@@ -6,6 +6,8 @@ authors = ["rafaelymz <mingzhi2@alumni.cmu.edu>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+hyppo = "^0.2.1"
+seaborn = "^0.11.1"
 
 [tool.poetry.dev-dependencies]
 
